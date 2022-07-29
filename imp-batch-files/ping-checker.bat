@@ -79,7 +79,7 @@ ECHO ------------SEA Servers------------
 CALL:ping 107.6.114.196
 ECHO - (sgp) Singapore:            %ms%
 CALL:ping 107.6.119.124
-ECHO - (sgp) Singapore:            %ms%
+ECHO - (sgp) Singapore:           %ms%
 ECHO ***********************************
 
 ECHO Ping Tester
